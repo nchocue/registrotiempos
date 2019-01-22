@@ -1,0 +1,14 @@
+{
+  "name": "registrotiempos",
+  "version": "1.0.0",
+  "description": "proyecto para registra tiempos en tiempo real",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.1"
+  }
+}
